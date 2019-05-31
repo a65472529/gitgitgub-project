@@ -9,6 +9,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 
+
 ///http://127.0.0.1:8080/news/getAll
 
 //前后端严格分离,就要用RestController,要给前端返回json数据.要用RestController
